@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(248, 16, 16);
+    color: rgb(238, 238, 188);
+
+
+}
+h2{
+    color: rgb(242, 246, 250);
+}
+
+.texto-ingles{
+    font-style: italic;
+
+}
+
+#nome-usuario{
+    font-weight: bold
+}
